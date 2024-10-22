@@ -1,10 +1,11 @@
 # To Do List
 
 - [ ] Overworld
-    - [ ] Terrain - flat
-    - [ ] Trees
-    - [ ] Rocks
-    - [ ] Bushes
+    - [X] Terrain - flat
+    - [X] Trees
+    - [X] Rocks
+    - [X] Bushes
+    - [X] Prevent trees / rocks / bushes to overlap
 - [ ] Player Character
     - [ ] Draw character on screen
     - [ ] Point and click controls
